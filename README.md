@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Clara 
 
-You can use the [editor on GitHub](https://github.com/claraamcr/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  #### Quem sou eu?
+Meu nome é Maria Clara, mas prefiro que me chamem de Clara, sou estudante e gosto muito de programação, quero aprender mais sobre isso, não pretendo trabalhar com a programação pois prefiro a área de psicologia ou advocacia, mas eu usaria como uma segunda opção e eu acho bacana aprender sobre isso, acho uma área futurística e que com certeza ajudará muito para o futuro.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
