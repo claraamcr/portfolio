@@ -1,4 +1,4 @@
-# Clara 
+# `Clara` 
 
   #### Quem sou eu?
 Meu nome é Maria Clara, mas prefiro que me chamem de Clara, sou estudante e gosto muito de programação, quero aprender mais sobre isso, não pretendo trabalhar com a programação pois prefiro a área de psicologia ou advocacia, mas eu usaria como uma segunda opção e eu acho bacana aprender sobre isso, acho uma área futurística e que com certeza ajudará muito para o futuro.
@@ -11,10 +11,10 @@ Eu já completei um curso de matemática, um curso sobre a saúde mental, estou 
 
 ### Idiomas que eu falo:
 
-Inglês (intermediário-avançado)
-Espanhol (básico)
+_Inglês_ (intermediário-avançado)
+_Espanhol_ (básico)
 
-### Hobbies
+### **Hobbies**
 Eu escrevo, jogo jogos de fps tático, estudo e faço resumos/mapa mentais, explico coisas complicadas, tornando-as mais fáceis, leio, gosto de aprender idiomas diferentes, edito videos, jogo cartas, gosto de cozinhar quando vejo uma receita diferente, dançar, faço cursos e gosto de decorar.
 ```markdown
 **Bold** and _Italic_ and `Code` text
