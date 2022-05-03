@@ -6,7 +6,7 @@ Meu nome é Maria Clara, mas prefiro que me chamem de Clara, sou estudante e gos
 
 ### Meus cursos
 
-Eu já completei um curso de matemática, um curso sobre a saúde mental, estou finalizando meu curso de inglês e meu curso sobre como criar sites com marketing digital.
+Eu já completei um curso de matemática, um curso sobre saúde mental, estou finalizando meu curso de inglês e meu curso sobre como criar sites com marketing digital.
 
 
 ### Idiomas que eu falo:
