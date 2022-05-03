@@ -17,8 +17,8 @@ _Espanhol_ (básico)
 ### **Hobbies**
 Eu escrevo, jogo jogos de fps tático, estudo e faço resumos/mapa mentais, explico coisas complicadas, tornando-as mais fáceis, leio, gosto de aprender idiomas diferentes, edito videos, jogo cartas, gosto de cozinhar quando vejo uma receita diferente, dançar, faço cursos e gosto de decorar.
 
-Conheça meu perfil no instagram:
-[instagram] (https://www.instagram.com/claraamcr) 
+Conheça meu perfil no:
+[instagram](https://www.instagram.com/claraamcr) 
 
 
 
