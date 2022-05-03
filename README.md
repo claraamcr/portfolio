@@ -21,6 +21,7 @@ Conheça minhas redes sociais:
 [instagram](https://www.instagram.com/claraamcr) 
 [twitter](https://twitter.com/girlfriendlivie)
 [facebook](https://www.facebook.com/maariaclararosa)
+[tiktok](https://www.tiktok.com/@claraamcrr)
 
 
 
