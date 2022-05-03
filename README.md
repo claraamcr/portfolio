@@ -1,6 +1,6 @@
 # `Clara` 
 
-  #### Quem sou eu?
+  #### `Quem sou eu?`
 Meu nome é Maria Clara, mas prefiro que me chamem de Clara, sou estudante e gosto muito de programação, quero aprender mais sobre isso, não pretendo trabalhar com a programação pois prefiro a área de psicologia ou advocacia, mas eu usaria como uma segunda opção e eu acho bacana aprender sobre isso, acho uma área futurística e que com certeza ajudará muito para o futuro.
 
 
