@@ -18,7 +18,7 @@ _Espanhol_ (básico)
 Eu escrevo, jogo jogos de fps tático, estudo e faço resumos/mapa mentais, explico coisas complicadas, tornando-as mais fáceis, leio, gosto de aprender idiomas diferentes, edito videos, jogo cartas, gosto de cozinhar quando vejo uma receita diferente, dançar, faço cursos e gosto de decorar.
 
 Conheça meu perfil no instagram:
-[Clique aqui] (https://www.instagram.com/claraamcr/) 
+[Instagram] (https://www.instagram.com/claraamcr) 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
