@@ -19,7 +19,8 @@ Eu escrevo, jogo jogos de fps tático, estudo e faço resumos/mapa mentais, expl
 
 Conheça minhas redes sociais:
 [instagram](https://www.instagram.com/claraamcr) 
-[facebook](https://twitter.com/girlfriendlivie)
+[twitter](https://twitter.com/girlfriendlivie)
+[facebook](https://www.facebook.com/maariaclararosa)
 
 
 
