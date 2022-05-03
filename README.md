@@ -23,7 +23,7 @@ Conheça minhas redes sociais:
 [facebook](https://www.facebook.com/maariaclararosa)
 [tiktok](https://www.tiktok.com/@claraamcrr)
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Ftag%2Freyna-(valorant)-wallpapers%3Flang%3DPortuguese&psig=AOvVaw2mJY1mP7HeI_LxcM1aZelM&ust=1651684316279000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLjNyLTpw_cCFQAAAAAdAAAAABAD)
+![image](https://images5.alphacoders.com/110/1102044.jpg)
 
 
 
